@@ -1,3 +1,4 @@
+#defining functions
 def cls():
     import os
     os.system("cls")
